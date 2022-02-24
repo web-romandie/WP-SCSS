@@ -1,12 +1,12 @@
 {
-  "name": "ConnectThink/WP-SCSS",
+  "name": "connectthink/wp-scss",
   "description": "Compiles .scss files on your wordpress install using lefo's scssphp. Includes settings page for configuring directories, error reporting, compiling options, and auto enqueuing.",
   "keywords": ["wordpress", "plugin"],
   "type": "wordpress-plugin",
   "repositories": [
     {
       "type": "vcs",
-      "url": "git@github.com:ConnectThink/WP-SCSS.git"
+      "url": "git@github.com:web-romandie/wp-scss.git"
     }
   ]
 }
